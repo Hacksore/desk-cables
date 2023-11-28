@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-28T15:27:53.930Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-OaC9_rDa39fX1ZUBGlw" version="22.1.4" type="github">
+<mxfile modified="2023-11-28T15:34:09.374Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UZw-2iHxI4DBHNN2GBN-" version="22.1.4" type="github">
   <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -201,6 +201,22 @@
         </mxCell>
         <mxCell id="m90xQPu4XsftAY0NILOl-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="710" y="434.5" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="m90xQPu4XsftAY0NILOl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="m90xQPu4XsftAY0NILOl-16" target="_3xDCkGt-uZ2KmA9hD5z-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m90xQPu4XsftAY0NILOl-18" value="&lt;b&gt;USB C&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m90xQPu4XsftAY0NILOl-17">
+          <mxGeometry x="-0.6803" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m90xQPu4XsftAY0NILOl-16" value="&lt;b&gt;OPAL C1&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="10" width="50.32" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
